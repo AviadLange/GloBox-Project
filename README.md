@@ -26,7 +26,7 @@ Spreadsheet sheets
 Conversion rate
 Amount spent
 
-Tableau slides
+Tableau slides - https://public.tableau.com/app/profile/aviad.lange/viz/GloBoxProject/GloBoxPresentation
 Worksheets:
 Conversion rate per group
 Total avg per group
